@@ -2,7 +2,7 @@
 
 This is a brief introduction about me.:grin:
 
-My name is Lixue Mei. In chinese, that means The plum blossom on the snowfield.
+My name is Lixue Mei. In chinese, that means *The plum blossom on the snowfield*.
 
 I chose to be a programmer because *Person Of Interest* was my favorite show when I was in high school. And I think I've enjoyed this choice so far.:thinking:
 
@@ -12,11 +12,11 @@ My friends always told me that when they first saw me, they assumed that I'm one
 
 But...I'm actually a people person, I like chatting with others and making new friends.:partying_face:
 
-![me](assets/me.jpeg)
+![me](profile/assets/me.jpeg)
 
 And this is me after walking on a windy day for half an hour:
 
-![thanks-to-the-wind](assets/thanks-to-the-wind.JPG)
+![thanks-to-the-wind](profile/assets/thanks-to-the-wind.JPG)
 
 My hair just ...:boom::boom::boom:
 
